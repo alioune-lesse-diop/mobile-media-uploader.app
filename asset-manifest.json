@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a674a0b5.css",
+    "main.js": "./static/js/main.a83a173d.js",
+    "static/js/453.ba7deb2c.chunk.js": "./static/js/453.ba7deb2c.chunk.js",
+    "static/media/cloud-computing.png": "./static/media/cloud-computing.9030c7a42d0ae0b1f736.png",
+    "static/media/Logo_Munisys.png": "./static/media/Logo_Munisys.c302a7d0f5b706ccc40d.png",
+    "index.html": "./index.html",
+    "main.a674a0b5.css.map": "./static/css/main.a674a0b5.css.map",
+    "main.a83a173d.js.map": "./static/js/main.a83a173d.js.map",
+    "453.ba7deb2c.chunk.js.map": "./static/js/453.ba7deb2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a674a0b5.css",
+    "static/js/main.a83a173d.js"
+  ]
+}
